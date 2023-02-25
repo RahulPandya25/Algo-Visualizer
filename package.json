@@ -1,0 +1,23 @@
+{
+  "name": "algo-visualizer",
+  "version": "1.0.0",
+  "description": "Algorithm Visualizer to help understand various algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulPandya25/Algo-Visualizer.git"
+  },
+  "keywords": [
+    "algo",
+    "visualize"
+  ],
+  "author": "Rahul Pandya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RahulPandya25/Algo-Visualizer/issues"
+  },
+  "homepage": "https://github.com/RahulPandya25/Algo-Visualizer#readme"
+}
