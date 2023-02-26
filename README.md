@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with React [Algo Visualizer](https://master--fanciful-llama-c554ca.netlify.app).
 
 ## Available Scripts
 
